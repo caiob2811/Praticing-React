@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.header {
+    background-color: #0064cf;
+    background-image: url("https://www.transparenttextures.com/patterns/ag-square.png");
+    padding: 17px;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+
+.card-box {
+    padding: 0px 10px 0px;
+    margin: 14px;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+    background-color: bisque;
+    color: #000000;
+}
+
+.card-h2:hover {
+    color: #0064cf;
+}
+
+.card-img {
+    width: 150px;
+}
+
+.trip-box {
+    padding: 0px 10px 30px;
+    margin: 17px;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 282px;
+    height: 300px;
+    text-align: center;
+    display: inline-block;
+    background-color: bisque;
+    color: #000000;
+}
+
+.trips-img {
+    width: 250px;
+    padding-bottom: 10px;
+}
+
+input {
+    display: block;
+    position: relative;
+    left: 128px;
+}
+
+button {
+  text-align: center;
+  margin-top: 20px;
+  background-color: bisque;
+  margin-bottom: 10px;
+  
+}
+
+.footer {
+    background-color: #0064cf;
+    background-image: url("https://www.transparenttextures.com/patterns/ag-square.png");
+    padding: 10px;
+}
+
+.footer-p {
+    font-size: 18px;
+    color: #ffffff;
+}
